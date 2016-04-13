@@ -1,0 +1,16 @@
+C:\Users\Rambo3592\documents\visual studio 2010\Projects\Incanter\Incanter\Incanter\bin\x86\Debug\Content\circle.xnb
+C:\Users\Rambo3592\documents\visual studio 2010\Projects\Incanter\Incanter\Incanter\bin\x86\Debug\Incanter.exe
+C:\Users\Rambo3592\documents\visual studio 2010\Projects\Incanter\Incanter\Incanter\bin\x86\Debug\Incanter.pdb
+C:\Users\Rambo3592\documents\visual studio 2010\Projects\Incanter\Incanter\Incanter\obj\x86\Debug\Incanter.csprojResolveAssemblyReference.cache
+C:\Users\Rambo3592\documents\visual studio 2010\Projects\Incanter\Incanter\Incanter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rambo3592\documents\visual studio 2010\Projects\Incanter\Incanter\Incanter\obj\x86\Debug\Incanter.exe
+C:\Users\Rambo3592\documents\visual studio 2010\Projects\Incanter\Incanter\Incanter\obj\x86\Debug\Incanter.pdb
+E:\University Work\Creative Techologies Project\Incanter\Incanter\Incanter\bin\x86\Debug\Content\circle.xnb
+E:\University Work\Creative Techologies Project\Incanter\Incanter\Incanter\bin\x86\Debug\Incanter.exe
+E:\University Work\Creative Techologies Project\Incanter\Incanter\Incanter\bin\x86\Debug\Incanter.pdb
+E:\University Work\Creative Techologies Project\Incanter\Incanter\Incanter\obj\x86\Debug\Incanter.csprojResolveAssemblyReference.cache
+E:\University Work\Creative Techologies Project\Incanter\Incanter\Incanter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\University Work\Creative Techologies Project\Incanter\Incanter\Incanter\obj\x86\Debug\Incanter.exe
+E:\University Work\Creative Techologies Project\Incanter\Incanter\Incanter\obj\x86\Debug\Incanter.pdb
+E:\University Work\Creative Techologies Project\Incanter\Incanter\Incanter\bin\x86\Debug\Content\background.xnb
+E:\University Work\Creative Techologies Project\Incanter\Incanter\Incanter\bin\x86\Debug\Content\foreground.xnb
